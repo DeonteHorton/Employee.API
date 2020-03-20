@@ -1,0 +1,63 @@
+html{
+    background-color: rgb(14, 42, 65);
+}
+
+h1{
+    color: #fff;
+    font-style: oblique;
+}
+h2{
+    color: #fff;
+    font-style: oblique;
+}
+label{
+    color: #fff;
+    font-style: oblique;
+}
+
+#output{
+    margin: 5% 0 0 0;
+}
+#output pre{
+    border: solid black;
+    background-color: rgb(209, 209, 209);
+    font-style: oblique;
+}
+.pure-table {
+    margin-top: 20px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    empty-cells: show;
+    border: 1px solid black;
+}
+
+.pure-table caption {
+    color: #000;
+    font: italic 85%/1 arial,sans-serif;
+    padding: 1em 0;
+    text-align: center
+}
+
+.pure-table td,.pure-table th {
+    border-left: 1px solid rgb(0, 0, 0);
+    border-width: 0 0 0 1px;
+    font-size: inherit;
+    margin: 0;
+    overflow: visible;
+    padding: .5em 1em
+}
+
+.pure-table thead {
+    background-color: #91e0ff;
+    border-bottom: 1px solid black;
+    color: #000;
+    font-style: italic;
+    text-align: left;
+    vertical-align: bottom
+}
+
+.pure-table td {
+    background-color: rgb(209, 209, 209);
+    border-bottom:  1px solid black;
+    font-style: oblique;
+}
